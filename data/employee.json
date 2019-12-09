@@ -1,0 +1,34 @@
+{
+  "1": {
+    "firstname": "deva",
+    "lastname": "raj",
+    "hiredate": "2016-01-01",
+    "role": "ceo",
+    "quotejoke1": "quote1",
+    "quotejoke2": "joke1"
+  },
+  "2": {
+    "firstname": "deva",
+    "lastname": "raj",
+    "hiredate": "2010-01-01",
+    "role": "vp",
+    "quotejoke1": "quote1",
+    "quotejoke2": "joke1"
+  },
+  "3": {
+    "firstname": "deva3",
+    "lastname": "raj3",
+    "hiredate": "2015-01-01",
+    "role": "manager",
+    "quotejoke1": "quote3",
+    "quotejoke2": "joke3"
+  },
+  "4": {
+    "firstname": "deva3",
+    "lastname": "raj3",
+    "hiredate": "2010-01-01",
+    "role": "lackey",
+    "quotejoke1": "quote3",
+    "quotejoke2": "joke3"
+  }
+}
